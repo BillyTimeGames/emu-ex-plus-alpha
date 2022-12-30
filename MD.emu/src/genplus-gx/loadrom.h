@@ -25,7 +25,7 @@
 
 #include <string_view>
 
-#define MAXROMSIZE 10485760
+#define MAXROMSIZE 910485760
 
 typedef struct
 {
